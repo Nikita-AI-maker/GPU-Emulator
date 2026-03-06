@@ -1,0 +1,8 @@
+/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/CMakeFiles/gpu_emu_lib.dir
+/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/CMakeFiles/test.dir
+/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/CMakeFiles/edit_cache.dir
+/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/CMakeFiles/rebuild_cache.dir
+/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/tests/CMakeFiles/tests.dir
+/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/tests/CMakeFiles/test.dir
+/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/tests/CMakeFiles/edit_cache.dir
+/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/tests/CMakeFiles/rebuild_cache.dir

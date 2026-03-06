@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgpu_emu_lib.a CMakeFiles/gpu_emu_lib.dir/src/ptx_lexer.cpp.o CMakeFiles/gpu_emu_lib.dir/src/ptx_parser.cpp.o
+/usr/bin/ranlib libgpu_emu_lib.a

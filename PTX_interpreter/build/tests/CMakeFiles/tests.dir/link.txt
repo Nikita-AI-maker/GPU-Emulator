@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/catch2/catch_amalgamated.cpp.o CMakeFiles/tests.dir/test_lexer.cpp.o CMakeFiles/tests.dir/test_parser.cpp.o -o tests  ../libgpu_emu_lib.a

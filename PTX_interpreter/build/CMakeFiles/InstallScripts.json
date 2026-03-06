@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/cmake_install.cmake",
+		"/Users/nikitastroev/Desktop/Software/GPU-Emulator/PTX_interpreter/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
