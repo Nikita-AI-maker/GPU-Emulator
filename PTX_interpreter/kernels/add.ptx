@@ -1,0 +1,21 @@
+.version 7.0
+.target sm_80
+.address_size 64
+
+.visible .entry add_kernel(
+    .param .u64 param_a,
+    .param .u64 param_b,
+    .param .u64 param_c
+)
+{
+    .reg .u32 %r<4>;
+    .reg .u64 %rd<4>;
+
+    ld.param.u64  %rd0, [param_a];
+    ld.param.u64  %rd1, [param_b];
+    ld.global.u32 %r0, [%rd0];
+    ld.global.u32 %r1, [%rd1];
+    add.u32       %r2, %r0, %r1;
+    st.global.u32 [%rd1], %r2;
+    ret;
+}
